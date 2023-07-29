@@ -1,0 +1,140 @@
+Git-GitHub:
+
+Version Control System?
+1) VCS is a management software which is responsible for managing changes.
+2) Easy recovery of your files/codes/applications.
+3) Rollback to the previous version.
+
+3 Types of VCS:
+1) Local VCS:
+2) Centralized VCS:
+3) Distributed VCS:
+
+1) Local VCS:
+a) It will be available in your local system.
+b) Changes will be stored in your local only.
+Drawback:
+1) Failure happens in your local  then your entire work is lost.
+
+2) Centralized VCS:
+a) A directory/folder where your project code/applications resides at a remote location on a server.
+Drawback:
+1) If the central repository goes down entire data will be lost.
+
+3) Distributed VCS:
+a) Distributed VCS contain multiple repositories.
+b) Each user has their own local repo & there is a central repo where the final code resides.
+c) Provides a full back up of the project
+d) Git is an ex of DVCS
+
+===> How Git was created?
+
+What is Git?
+1) Git is a free & open source DVCS.
+2) Git helps developers keep track of the history/changes of their codes by storing them in different versions on server Repo i.e. GitHub.
+3) Git stores Snapshot of your project and not the differences.
+
+What is GitHub?
+GitHub is a cloud based service that helps developers to store and manage their codes as well as track/control changes to their codes in Git Repostitories.
+
+Difference between Git Vs GitHub:
+	Git			GitHub
+1) Git is a tool to execute VC.		GitHub is a platform that utilizes Git to carry its functionalities.
+2) It is a software  in order to use it	It is web based service so no need of installation but we need to 
+we need to install it.			create an account.
+3) It is a CLI			It is GUI
+
+Git Life Cycle:
+Unix/Linux flavours are case sensitive.
+
+1) pwd ==> present work directory
+
+2) mkdir ==> create directories
+
+3) cd ==> change directory
+cd .. ==> move one dir back
+
+4) cat ==> create a file, open a file, apped the data to a file
+
+create file:
+cat > file1.txt
+Enter Data
+Ctrl + d
+
+open file:
+cat file1.txt
+
+append data to file:
+cat >> file1.txt
+Adding 4th line
+Ctrl + d
+
+Create files using VI:
+:wq ==> Save & Close the file
+:q ==> Without Saving Close the file
+
+OR
+
+:wq! ==> Forcefully/Override Save & Close the file
+:q! ==> Forcefully/Override Without Saving Close the file
+
+5) ls ==> list the files/directories under the working directory
+
+6) git init:
+It initalizaes working directory and master branch is created & .git folder
+
+7) git status:
+This command will show the modified status of an existing file or addition of a file.
+
+8) git add: This will add the specified files to staging area.
+
+9) git commit: This command records file changes permanantly to your local repository.
+
+10) git log: This command will show you all logs/commits for the files.
+git log --oneline
+
+11) git diff: If you want to know exactly what you changed not just files.
+
+12) git ignore: 
+Often times we do not want to track files like logs, build, err, cfg, prm etc
+
+empty --> i don't want to track --> keep all these files in .gitignore
+
+13) Setting/Unsetting Alias:
+Setting Alias:
+git config --global alias.st status
+Unsetting Alias:
+git config --global --unset alias.st
+
+What is Branch?
+1) A branch in git is simply a lightweight movable pointer to one of the commits.
+2) Default branch name is master
+3) Diverging from your main branch for addition, rectifying codes
+
+14) to check previous command successful or not
+echo $?
+
+15) echo: printing output
+echo 'Saif'
+
+16) create a new branch:
+git branch <br1>
+
+17) to check branch:
+git branch
+
+18) Move between your branches:
+git checkout <branch_name>
+
+Create and checkout to branch:
+git checkout -b br2
+
+18) git push: We push our final changes from you local repo to your server repo.
+git push origin master
+
+git remote add origin https://github.com/ArifShaikh123890/deloitte_jul23.git
+
+git pull origin master --allow-unrelated-histories
+
+19) git pull: git pull command run git fetch which will download the contents from remote repo to your local repo and then immediately updates the local repo to match the content i.e. git merge
+pull = fetch + merge

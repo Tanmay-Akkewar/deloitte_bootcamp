@@ -1,0 +1,872 @@
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ pwd
+/c/Users/takkewar
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ pwd
+/c/Users/takkewar
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ mkdir Git_Project
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ pwd
+/c/Users/takkewar
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ cd Git_Project/
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ pwd
+/c/Users/takkewar/Git_Project
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cd ..
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ pwd
+/c/Users/takkewar
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ cd "1. Self Documents"/
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/1. Self Documents
+$ pwd
+/c/Users/takkewar/1. Self Documents
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/1. Self Documents
+$ cd ..
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ ll
+total 10985
+drwxr-xr-x 1 takkewar 1049089       0 Jul  4 15:54 '1. Self Documents'/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  5 17:46 '2. SPARK'/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  3 18:05 '3. First Connect'/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57 '3D Objects'/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  9 10:21 '4. Compliances'/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  4 16:25 '5. Nomination'/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  6 20:21 '6. Benefits'/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  7 16:28 '7. Bootcamp'/
+drwxr-xr-x 1 takkewar 1049089       0 Dec  2  2022  AppData/
+lrwxrwxrwx 1 takkewar 1049089      33 Jun 21 13:56 'Application Data' -> /c/Users/takkewar/AppData/Roaming/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57  Contacts/
+lrwxrwxrwx 1 takkewar 1049089      61 Jun 21 13:56  Cookies -> /c/Users/takkewar/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 29 22:34  Desktop/
+drwxr-xr-x 1 takkewar 1049089       0 Jul  8 08:00  Documents/
+drwxr-xr-x 1 takkewar 1049089       0 Jul 10 11:46  Downloads/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 26 22:24  Favorites/
+drwxr-xr-x 1 takkewar 1049089       0 Jul 10 12:01  Git_Project/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57  Links/
+lrwxrwxrwx 1 takkewar 1049089      31 Jun 21 13:56 'Local Settings' -> /c/Users/takkewar/AppData/Local/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57  Music/
+lrwxrwxrwx 1 takkewar 1049089      27 Jun 21 13:56 'My Documents' -> /c/Users/takkewar/Documents/
+-rw-r--r-- 1 takkewar 1049089 6553600 Jul 10 08:30  NTUSER.DAT
+-rw-r--r-- 1 takkewar 1049089   65536 Jun 21 13:56  NTUSER.DAT{7e0f6a81-71dd-11ed-b6b1-1a2b3c4d0112}.TM.blf
+-rw-r--r-- 1 takkewar 1049089  524288 Jun 21 13:56  NTUSER.DAT{7e0f6a81-71dd-11ed-b6b1-1a2b3c4d0112}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 takkewar 1049089  524288 Jun 21 13:56  NTUSER.DAT{7e0f6a81-71dd-11ed-b6b1-1a2b3c4d0112}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 takkewar 1049089      69 Jun 21 13:56  NetHood -> '/c/Users/takkewar/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 takkewar 1049089       0 Dec  2  2022  OneDrive/
+drwxr-xr-x 1 takkewar 1049089       0 Jul 10 11:50  Outlook/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57  Pictures/
+lrwxrwxrwx 1 takkewar 1049089      69 Jun 21 13:56  PrintHood -> '/c/Users/takkewar/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 takkewar 1049089      58 Jun 21 13:56  Recent -> /c/Users/takkewar/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57 'Saved Games'/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 21 13:57  Searches/
+lrwxrwxrwx 1 takkewar 1049089      58 Jun 21 13:56  SendTo -> /c/Users/takkewar/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 takkewar 1049089      62 Jun 21 13:56 'Start Menu' -> '/c/Users/takkewar/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 takkewar 1049089      61 Jun 21 13:56  Templates -> /c/Users/takkewar/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 takkewar 1049089       0 Jun 30 11:22  Videos/
+-rw-r--r-- 1 takkewar 1049089 1732608 Jun 21 13:56  ntuser.dat.LOG1
+-rw-r--r-- 1 takkewar 1049089 1798144 Jun 21 13:56  ntuser.dat.LOG2
+-rw-r--r-- 1 takkewar 1049089      20 Dec  2  2022  ntuser.ini
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ pwd
+/c/Users/takkewar
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~
+$ cd Git_Project/
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cat > file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ pwd
+/c/Users/takkewar/Git_Project
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ ls
+file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ ll
+total 1
+-rw-r--r-- 1 takkewar 1049089 51 Jul 10 12:21 file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cat < file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cat >> file1.txt
+Adding 4th line
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+Adding 4th line
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ vi file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ cat file2.txt
+I am learning unix and Git
+Entering Random data
+to add lines press i
+to stop editing press esc
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ vi file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ pwd
+/c/Users/takkewar/Git_Project
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ ll
+total 2
+-rw-r--r-- 1 takkewar 1049089 66 Jul 10 12:27 file1.txt
+-rw-r--r-- 1 takkewar 1049089 95 Jul 10 12:31 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project
+$ git init
+Initialized empty Git repository in C:/Users/takkewar/Git_Project/.git/
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 2
+-rw-r--r-- 1 takkewar 1049089 66 Jul 10 12:27 file1.txt
+-rw-r--r-- 1 takkewar 1049089 95 Jul 10 12:31 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll -a
+total 22
+drwxr-xr-x 1 takkewar 1049089  0 Jul 10 12:45 ./
+drwxr-xr-x 1 takkewar 1049089  0 Jul 10 12:36 ../
+drwxr-xr-x 1 takkewar 1049089  0 Jul 10 12:45 .git/
+-rw-r--r-- 1 takkewar 1049089 66 Jul 10 12:27 file1.txt
+-rw-r--r-- 1 takkewar 1049089 95 Jul 10 12:31 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file1.txt
+        file2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git add *
+warning: in the working copy of 'file1.txt', LF will be replaced by CRLF the next ti
+me Git touches it
+warning: in the working copy of 'file2.txt', LF will be replaced by CRLF the next ti
+me Git touches it
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file2.txt
+
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git add *
+warning: in the working copy of 'file2.txt', LF will be replaced by CRLF the next ti
+me Git touches it
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git commit -m 'my first commit'
+[master (root-commit) 855201f] my first commit
+ Committer: Akkewar <takkewar@deloitte.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 11 insertions(+)
+ create mode 100644 file1.txt
+ create mode 100644 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git log
+commit 855201f6fc6e6057a91980f5686a7f3300475cdb (HEAD -> master)
+Author: Akkewar <takkewar@deloitte.com>
+Date:   Mon Jul 10 13:03:10 2023 +0530
+
+    my first commit
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git log --oneline
+855201f (HEAD -> master) my first commit
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 2
+-rw-r--r-- 1 takkewar 1049089  66 Jul 10 12:27 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+Adding 4th line
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ vi file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git diff file1.txt
+warning: in the working copy of 'file1.txt', LF will be replaced by CRLF the next ti
+me Git touches it
+diff --git a/file1.txt b/file1.txt
+index b6c58b5..232fa76 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,5 +1,4 @@
+ This is my first file
+ Also I am learning git.
+
+-Bye
+-Adding 4th line
+\ No newline at end of file
++Adding 4th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git ignore
+git: 'ignore' is not a git command. See 'git --help'.
+
+The most similar command is
+        diagnose
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git branch br1
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ echo 'my name is tanmay'
+my name is tanmay
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ echo $?
+0
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git branch
+  br1
+* master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br1 1
+error: pathspec '1' did not match any file(s) known to git
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br1
+Switched to branch 'br1'
+M       file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git branch
+* br1
+  master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checkout -b br2
+Switched to a new branch 'br2'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br2)
+$ git branch
+  br1
+* br2
+  master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br2)
+$ git checkout master
+Switched to branch 'master'
+M       file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 2
+-rw-r--r-- 1 takkewar 1049089  63 Jul 10 14:22 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+
+
+Aborting commit due to empty commit message.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git commit -m 'branching'
+[master 9d618e8] branching
+ Committer: Akkewar <takkewar@deloitte.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+ create mode 100644 m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br1
+Switched to branch 'br1'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ ll
+total 2
+-rw-r--r-- 1 takkewar 1049089  70 Jul 10 15:56 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ cat m1.txt
+cat: m1.txt: No such file or directory
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checckout master
+git: 'checckout' is not a git command. See 'git --help'.
+
+The most similar command is
+        checkout
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checkout master
+Switched to branch 'master'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat m1.txt
+This is my first edit.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br1
+Switched to branch 'br1'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+Adding 4th line
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ vi file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checkout master
+error: Your local changes to the following files would be overwritten by checkout:
+        file1.txt
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git add .
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git commit -m 'branch commit'
+[br1 b0da94e] branch commit
+ Committer: Akkewar <takkewar@deloitte.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checkout master
+Switched to branch 'master'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git add .
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git commit -m 'master commit'
+On branch master
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br1
+Switched to branch 'br1'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+Adding 4th line
+5th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checkout master
+Switched to branch 'master'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git merge br1
+Auto-merging file1.txt
+CONFLICT (content): Merge conflict in file1.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master|MERGING)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+<<<<<<< HEAD
+Adding 4th line
+=======
+Bye
+Adding 4th line
+5th line
+>>>>>>> br1
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master|MERGING)
+$ git merge --abort
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br1
+Switched to branch 'br1'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git status
+On branch br1
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ ll
+total 2
+-rw-r--r-- 1 takkewar 1049089  82 Jul 10 16:18 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Bye
+Adding 4th line
+5th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ vi file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git add .
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git commit -m 'br1 commit'
+[br1 c76c5fb] br1 commit
+ Committer: Akkewar <takkewar@deloitte.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 deletions(-)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git status
+On branch br1
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br1)
+$ git checkout master
+Switched to branch 'master'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 3
+-rw-r--r-- 1 takkewar 1049089  67 Jul 10 16:21 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+-rw-r--r-- 1 takkewar 1049089  24 Jul 10 16:21 m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git add .
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git commit -m 'master commit'
+On branch master
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git merge br1
+Auto-merging file1.txt
+CONFLICT (content): Merge conflict in file1.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master|MERGING)
+$ vi file1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master|MERGING)
+$ git merge --abort
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 3
+-rw-r--r-- 1 takkewar 1049089  67 Jul 10 16:26 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+-rw-r--r-- 1 takkewar 1049089  24 Jul 10 16:21 m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git branch br3
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git checkout br3
+Switched to branch 'br3'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ ll
+total 3
+-rw-r--r-- 1 takkewar 1049089  67 Jul 10 16:26 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+-rw-r--r-- 1 takkewar 1049089  24 Jul 10 16:21 m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ cat m1.txt
+This is my first edit.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ vi m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ git status
+On branch br3
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   m1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ git add *
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ git commit -m 'br3 commit'
+[br3 07ced65] br3 commit
+ Committer: Akkewar <takkewar@deloitte.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (br3)
+$ git checkout master
+Switched to branch 'master'
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 3
+-rw-r--r-- 1 takkewar 1049089  67 Jul 10 16:26 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+-rw-r--r-- 1 takkewar 1049089  24 Jul 10 16:29 m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat m1.txt
+This is my first edit.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git merge br3
+Updating 9d618e8..07ced65
+Fast-forward
+ m1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat m1.txt
+This is my first edit.
+I am adding this line.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git remote add origin https://github.com/Tanmay-Akkewar/deloitte_bootcamp
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git pull origin master
+fatal: couldn't find remote ref master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git remote add origin https://github.com/Tanmay-Akkewar/deloitte_bootcamp.git
+error: remote origin already exists.
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git pull origin master
+fatal: couldn't find remote ref master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git push origin master
+info: please complete authentication in your browser...
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (11/11), 975 bytes | 195.00 KiB/s, done.
+Total 11 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Tanmay-Akkewar/deloitte_bootcamp
+ * [new branch]      master -> master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ^C
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git pull origin master
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 744 bytes | 74.00 KiB/s, done.
+From https://github.com/Tanmay-Akkewar/deloitte_bootcamp
+ * branch            master     -> FETCH_HEAD
+   07ced65..ab5aa24  master     -> origin/master
+Updating 07ced65..ab5aa24
+Fast-forward
+ file1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file1.txt
+This is my first file
+Also I am learning git.
+
+Adding 4th line
+Adding 5th line
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ ll
+total 3
+-rw-r--r-- 1 takkewar 1049089  84 Jul 10 17:48 file1.txt
+-rw-r--r-- 1 takkewar 1049089 116 Jul 10 13:00 file2.txt
+-rw-r--r-- 1 takkewar 1049089  48 Jul 10 16:30 m1.txt
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git fetch
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 749 bytes | 74.00 KiB/s, done.
+From https://github.com/Tanmay-Akkewar/deloitte_bootcamp
+   ab5aa24..9e97b92  master     -> origin/master
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file2.txt
+I am learning unix and Git
+Entering Random data
+to add lines press i
+to stop editing press esc
+
+I added another line
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ git merge origin/master
+Updating ab5aa24..9e97b92
+Fast-forward
+ file2.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+takkewar@USHYDTAKKEWAR2 MINGW64 ~/Git_Project (master)
+$ cat file2.txt
+I am learning unix and Git
+Entering Random data
+to add lines press i
+to stop editing press esc
+
+I added another line
+learning the fetch and merge command
